@@ -20,7 +20,7 @@ https://trello.com/b/TEgHXan1/monsters-inc-project
 
 ## Hosted on Heroku
 
-https://acebook-monsters-inc.herokuapp.com/
+https://monsters-inc-acebook.herokuapp.com/
 
 ## If you want to try this on your computer, download this repo and follow these instructions:
 
